@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Manjil Dahal<br><br>🎓 Computer Engineering Student at IOE, Purwanchal Campus  <br>🤖 AI & Machine Learning Enthusiast  <br>💡 Passionate about building real-world solutions through code  <br><br>Currently learning and exploring **AI/ML & System Design**<br>- 💻 Skilled in **Python, Django, C, C++**<br>- 🛠️ Love working on **projects that solve real problems**<br>- 📈 Always improving and learning new technologies
+Hi, I'm Manjil Dahal<br><br> Computer Engineering Student at IOE, Purwanchal Campus  <br> AI & Machine Learning Enthusiast  <br>💡 Passionate about building real-world solutions through code  <br><br>Currently learning and exploring **AI/ML & System Design**<br>- 💻 Skilled in **Python, Django, C, C++**<br>- 🛠️ Love working on **projects that solve real problems**<br>- 📈 Always improving and learning new technologies
 
 
 ## 🌐 Socials:
